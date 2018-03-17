@@ -1,60 +1,11 @@
-#right-container {
-  display: none;
+.jit-autoadjust-label {
+  padding: 15px;
 }
 
-#center-container {
-  width:800px;
-}
-
-#infovis {
-  width:800px;
-}
-
-.node {
-  color:#fff;
-  font-size:9px;
-  overflow:hidden;
-  cursor:pointer;
-/*  
-  text-shadow:2px 2px 5px #000;
-  -o-text-shadow:2px 2px 5px #000;
-  -webkit-text-shadow:2px 2px 5px #000;
-  -moz-text-shadow:2px 2px 5px #000;
-*/
-}
-
-/*TOOLTIPS*/
-.tip {
-    color: #fff;
-    width: 139px;
-    background-color: black;
-    opacity:0.9;
-    filter:alpha(opacity=90);
-    font-size:10px;
-    font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
-    padding:7px;
-}
-
-.album {
-    width:100px;
-    margin:3px;
-}
-
-#id-list {
-	background-color:#EEEEEE;
-	border:1px solid #CCCCCC;
-	margin:10px 20px 0 20px;
-	padding:5px;
-	text-align:left;
-	text-indent:2px;
-}
-
-#id-list table {
-  margin-top:2px;
-}
-
-#back {
-  margin:10px 40px;
+#update, #restore {
+  text-align: center;
+  width: 100px;
+  margin:0px 35px 10px 35px;
 }
 
 .button {
@@ -106,4 +57,3 @@
   background: -moz-linear-gradient(top,  #ededed,  #fff);
   filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#ffffff');
 }
-
