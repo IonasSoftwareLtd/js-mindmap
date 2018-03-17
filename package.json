@@ -1,0 +1,19 @@
+{
+  "name": "js-mindmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/jit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonasSoftwareLtd/js-mindmap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IonasSoftwareLtd/js-mindmap/issues"
+  },
+  "homepage": "https://github.com/IonasSoftwareLtd/js-mindmap#readme"
+}
